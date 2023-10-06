@@ -1,9 +1,10 @@
 body {
-  background-color: powderblue;
+  background-color: white;
 }
 h1 {
-  color: blue;
+  color: Navy;
 }
 p {
-  color: red;
+    color: black;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
 }
